@@ -13,6 +13,5 @@ if tSec = -1 {
 if !(tSec == 0 and tMin == 0 and tMil == 0) {
 	alarm[0] = 6
 }else {
-	score = 0
-	room_restart()
+	room_goto_next();
 }

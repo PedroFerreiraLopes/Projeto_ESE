@@ -1,6 +1,6 @@
 /// @description 
 
-timer = game_get_speed(gamespeed_fps) * 6;
+timer = game_get_speed(gamespeed_fps) * 30;
 
 ellapsed_time = timer;
 
