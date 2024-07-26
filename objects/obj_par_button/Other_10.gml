@@ -1,0 +1,1 @@
+/// @description To be inherited
